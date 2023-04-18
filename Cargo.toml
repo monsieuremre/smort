@@ -1,0 +1,10 @@
+[package]
+name = "smort"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.68.2"
+description = "Solving sudoku puzzles with backtracking and visualizing the entire process"
+readme = "README.md"
+repository = "https://github.com/monsieuremre/smort"
+license = "GPL-3.0-or-later"
+license-file = "LICENSE"
