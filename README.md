@@ -2,7 +2,11 @@
 
 ## Preview
 
-![preview]()
+Menu | Solving
+:-------------------------:|:-------------------------:
+![menu](https://raw.githubusercontent.com/monsieuremre/smort/main/media/menu.png)  |  ![solve](https://raw.githubusercontent.com/monsieuremre/smort/main/media/solve.png)
+
+![visualization](https://raw.githubusercontent.com/monsieuremre/smort/main/media/visual.gif)
 
 ## About The Project
 
