@@ -321,6 +321,7 @@ fn print_options() {
     println!("[R]eset board values");
     println!("[S]olve the board");
     println!("[V]isualize and solve the board");
+    println!("[U]nsolve the board");
     println!("[Q]uit");
     print!("Enter Command: ");
 }
